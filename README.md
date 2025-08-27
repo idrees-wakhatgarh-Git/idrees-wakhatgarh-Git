@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Idrees Wakhatghar and I'm an aspiring AI/ML Engineer, from India 🇮🇳</p>
+<p align="left">My name is Idrees Wakhatgarh and I'm an aspiring AI/ML Engineer, from India 🇮🇳</p>
 
 ###
 
