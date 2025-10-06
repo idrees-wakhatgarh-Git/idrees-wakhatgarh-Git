@@ -32,6 +32,11 @@ I enjoy turning complex data into actionable insights and developing intelligent
   <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" height="40" alt="pandas logo" />
   <img width="12" />
   <img src="https://matplotlib.org/_static/logo_light.svg" height="40" alt="matplotlib logo" />
+  <img width="12" />
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40" alt="seaborn logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn logo" />
 </div>
+
 
 ###
